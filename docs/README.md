@@ -1,8 +1,3 @@
-# olesu.github.io
+# A Title
 
-## Docsify
-
-```bash
-npm i -g docsify-cli
-docsify init ./docs
-```
+Some text
